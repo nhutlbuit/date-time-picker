@@ -197,3 +197,4 @@ License
 Author
 -------
 **Daniel YK Pan**
+npm adduser --registry=https://registry.npmjs.org/:_authToken=<token-from-npm>

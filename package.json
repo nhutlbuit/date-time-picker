@@ -1,6 +1,6 @@
 {
-  "name": "date-time-picker-app",
-  "version": "0.0.0",
+  "name": "datetime-picker",
+  "version": "0.0.1",
   "description": "Angular Date Time Picker",
   "keywords": [
     "Angular",
@@ -9,7 +9,7 @@
     "timepicker",
     "time picker"
   ],
-  "author": "daniel pan <myron.yk.pan@gmail.com>",
+  "author": "NhutLe <nhutlbuit@gmail.com>",
   "license": "MIT",
   "scripts": {
     "ng": "ng",
@@ -25,7 +25,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/DanielYKPan/date-time-picker.git"
+    "url": "git+https://github.com/nhutlbuit/date-time-picker.git"
   },
   "dependencies": {
     "@angular/animations": "~8.2.6",
@@ -68,5 +68,10 @@
     "tslib": "^1.10.0",
     "tslint": "~5.16.0",
     "typescript": "~3.5.3"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/nhutlbuit/date-time-picker/issues"
+  },
+  "homepage": "https://github.com/nhutlbuit/date-time-picker#readme",
+  "main": "index.js"
 }
